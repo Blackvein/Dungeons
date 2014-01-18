@@ -8,5 +8,6 @@ package com.dungeons.dungeon;
 public class Dungeon {
     
     private String name;
+    private String world;
     
 }
