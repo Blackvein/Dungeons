@@ -1,0 +1,8 @@
+name: Dungeons
+main: com.dungeons.Dungeons
+version: 1.0
+description: Advanced, extremely customizable dungeon system
+website: http://dev.bukkit.org/server-mods/dungeons/
+dev-url: https://github.com/Blackvein/Dungeons/
+authors: [_Blackvein_, silentnight18]
+soft-depend: [Citizens, Vault]
