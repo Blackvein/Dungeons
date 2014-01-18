@@ -10,4 +10,5 @@ package com.dungeons.dungeon.monsters;
  */
 public class MonsterTemplate {
     
+    //Added Comment
 }
